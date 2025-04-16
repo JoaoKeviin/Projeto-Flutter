@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "joao@gmail.com",
+      "password": "joao123@",
+      "name": "João da Silva",
+      "username": "@joaosilva",
+      "followers": 500,
+      "following": 500
+    },
+    {
+      "id": 2,
+      "email": "teste@gmail.com",
+      "password": "teste123@",
+      "name": "teste da Silva",
+      "username": "@teste",
+      "followers": 10500,
+      "following": 500
+    }
+  ],
+  "posts": [
+    {
+      "id": 101,
+      "userId": 1,
+      "content": "Este é o primeiro post do João.",
+      "likes": 150,
+      "comments": 30
+    },
+    {
+      "id": 102,
+      "userId": 1,
+      "content": "Mais um dia de trabalho duro!",
+      "likes": 200,
+      "comments": 45
+    },
+    {
+      "id": 103,
+      "userId": 1,
+      "content": "Amo programar!",
+      "likes": 300,
+      "comments": 60
+    },
+    {
+      "id": 104,
+      "userId": 1,
+      "content": "Feliz aniversário para mim!",
+      "likes": 400,
+      "comments": 80
+    },
+    {
+      "id": 105,
+      "userId": 1,
+      "content": "Vamos para a praia!",
+      "likes": 500,
+      "comments": 100
+    }
+  ]
+}
