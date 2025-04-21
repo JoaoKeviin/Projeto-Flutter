@@ -16,7 +16,7 @@ class ProfileHeader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.only(top: 20), // Espaço de 20 pixels no topo
+      padding: const EdgeInsets.only(top: 20),
       child: Column(
         children: [
           Row(
